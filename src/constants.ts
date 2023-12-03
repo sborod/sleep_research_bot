@@ -1,0 +1,1 @@
+export const OWNER_TELEGRAM_ID = 179400156;

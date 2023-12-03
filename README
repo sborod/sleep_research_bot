@@ -1,0 +1,9 @@
+to use this bot:
+
+1. clone the repo
+2. rename .env.example to .env and fill it
+3. put google credentials file to ./credentials directory
+
+you need node in your working environment to start the bot:
+yarn
+yarn start:dev
